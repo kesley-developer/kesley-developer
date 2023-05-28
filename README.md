@@ -1,3 +1,5 @@
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="200px" height="200px" align="right">
+
 # Hello, welcome to my GitHub profile ☕
 
 <div align=center>
@@ -15,27 +17,27 @@ These are some of the tools and technologies I have experience with
   
 <div align=center>
   <a href="https://github.com/kesley-developer/studys/tree/master/PYTHON">
-    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
   </a>
   
   <a href="https://github.com/kesley-developer/studys/tree/master/JAVASCRIPT">
-    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
   </a>
   
   <a href="https://github.com/kesley-developer/studys/tree/master/HTML">
-    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>    
+    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">    
   </a>
   
   <a href="https://github.com/kesley-developer/studys/tree/master/GIT">
-    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>    
+    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">    
   </a>
   
   <a href="https://github.com/kesley-developer/studys/tree/master/DB">  
-    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
   
   <a href="https://github.com/kesley-developer/studys/tree/master/C-SHARP">
-    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   </a>
   
   <h4>Among them are: Python, JavaScript, HTML & CSS, GIT, Databases, and C#. It is possible that the catalog will expand as I develop and study new technologies.</h4>
@@ -43,5 +45,10 @@ These are some of the tools and technologies I have experience with
 
 ## Repositories 🗂️
 Repositories on this profile
-- [studys](https://github.com/kesley-developer/studys) - Personal study repository on development 
-- [website](https://github.com/kesley-developer/website) - Archives from my website
+- **[studys](https://github.com/kesley-developer/studys)** - Personal study repository on development 
+- **[website](https://github.com/kesley-developer/website)** - Archives from my website
+
+## Website 🌐  
+**[Click here to acess!](https://kesley-developer.github.io/website)** - Visit my website for more informations
+
+
