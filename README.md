@@ -19,6 +19,10 @@ These are some of the tools and technologies I have experience with
   <a href="https://github.com/kesley-developer/studys/tree/master/PYTHON">
     <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
   </a>
+
+  <a href="#">
+    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  </a>
   
   <a href="https://github.com/kesley-developer/studys/tree/master/JAVASCRIPT">
     <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
@@ -26,6 +30,10 @@ These are some of the tools and technologies I have experience with
   
   <a href="https://github.com/kesley-developer/studys/tree/master/HTML">
     <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">    
+  </a>
+
+  <a href="https://github.com/kesley-developer/studys/tree/master/HTML">
+    <img width=100px height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   </a>
   
   <a href="https://github.com/kesley-developer/studys/tree/master/GIT">
@@ -45,5 +53,6 @@ These are some of the tools and technologies I have experience with
 
 ## Repositories 🗂️
 Repositories on this profile
-- [studys](https://github.com/kesley-developer/studys) - Personal study repository on development 
-- [website](https://github.com/kesley-developer/website) - Archives from my website
+- [studys](https://github.com/kesley-developer/studys) - Personal study repository on development
+- [bioclassLTDA](https://github.com/kesley-developer/bioclassLTDA) - Website from TCC in my course Administer Assistent
+- [DEVanimes](https://github.com/kesley-developer/DEVanimes) - Project for animes & chars informations
