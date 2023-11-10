@@ -56,3 +56,5 @@ Repositories on this profile
 - [studys](https://github.com/kesley-developer/studys) - Personal study repository on development
 - [bioclassLTDA](https://github.com/kesley-developer/bioclassLTDA) - Website from TCC in my course Administer Assistent
 - [DEVanimes](https://github.com/kesley-developer/DEVanimes) - Project for animes & chars informations
+- [Calculator](https://github.com/kesley-developer/DEVanimes) - Calculator functional in HTML, CSS & JS
+- [Mega-Sena-Simulator](https://github.com/kesley-developer/Mega-Sena-Simulator) - Game Simulator in Mega-Sena
